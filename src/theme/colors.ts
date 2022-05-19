@@ -31,6 +31,11 @@ export const lightColors: Colors = {
   card: "#FFFFFF",
   gradients: {
     bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
+    kyemeh: "linear-gradient(to right, #8360c3, #2ebf91)",
+    amin: "linear-gradient(to right, #8e2de2, #4a00e0)",
+    lawrencium: "linear-gradient(to right, #0f0c29, #302b63, #24243e)",
+    ohhappiness: "linear-gradient(to right, #00b09b, #96c93d)",
+    pdark: "linear-gradient(to right, #434343 0%, black 100%)"
   },
 };
 
@@ -52,6 +57,11 @@ export const darkColors: Colors = {
   borderColor: "#524B63",
   card: "#27262c",
   gradients: {
-    bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
+    bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
+    kyemeh: "linear-gradient(to right, #8360c3, #2ebf91)",
+    amin: "linear-gradient(to right, #8e2de2, #4a00e0)",
+    lawrencium: "linear-gradient(to right, #0f0c29, #302b63, #24243e)",
+    ohhappiness: "linear-gradient(to right, #00b09b, #96c93d)",
+    pdark: "linear-gradient(to right, #434343 0%, black 100%)"
   },
 };

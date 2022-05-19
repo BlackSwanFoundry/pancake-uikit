@@ -28,7 +28,12 @@ export type Shadows = {
 };
 
 export type Gradients = {
+  amin: string;
   bubblegum: string;
+  kyemeh: string;
+  lawrencium: string;
+  ohhappiness: string;
+  pdark: string;
 };
 
 export type Colors = {
